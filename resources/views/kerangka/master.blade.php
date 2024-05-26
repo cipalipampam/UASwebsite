@@ -11,7 +11,7 @@
 </head>
 
 <body>
-<div id="app">
+    <div id="app">
         @include('include.sidebar')
         <div id="main">
             <header class="mb-3">
@@ -44,7 +44,7 @@
 
 
 
- <!-- <div class="container mt-3">
+<!-- <div class="container mt-3">
                 <div class="d-flex justify-content-between align-items-center">
                     <h3>Hallo Admin</h3>
                     <div class="theme-toggle d-flex gap-2 align-items-center">
@@ -78,4 +78,3 @@
                     </div>
                 </div>
             </div> -->
-           
